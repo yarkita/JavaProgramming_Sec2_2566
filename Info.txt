@@ -1,0 +1,5 @@
+Student_id : 2313110542
+Student Name : Kitaya
+Major : IT
+Level : 1
+Faculty : Information Technology
