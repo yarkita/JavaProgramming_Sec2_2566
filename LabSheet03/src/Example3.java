@@ -13,7 +13,7 @@ public class Example3 {
 		//check conditional and declare meaning of BMI
 		String bmiCategory;
 		if(bmi<18.5) bmiCategory = "Underweight";
-		else if(bmi<25) bmiCategory = "Normal-weight";
+		else if(bmi<25 ) bmiCategory = "Normal-weight";
 		else if(bmi<30) bmiCategory = "Overweight";
 		else bmiCategory = "Obesity";
 		

@@ -24,7 +24,7 @@ public class Withdrawal {
 			JOptionPane.showMessageDialog(null, "Error: Cannot withdraw "+moneytoWithdraw%100+" baht.","ERROR",JOptionPane.ERROR_MESSAGE);
 		}
 		else {
-			JOptionPane.showMessageDialog(null, "You withdraw "+frm.format(moneytoWithdraw)+" baht."+"\n1,000 = "+money1000+"\n500 = "+money500+"\n100 = "+money100);
+			JOptionPane.showMessageDialog(null, "You withdraw "+ frm.format(moneytoWithdraw)+" baht."+"\n1,000 = "+money1000+"\n500 = "+money500+"\n100 = "+money100);
 		}
 	}
 

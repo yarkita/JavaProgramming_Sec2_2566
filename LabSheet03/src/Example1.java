@@ -12,7 +12,7 @@ public class Example1 {
 		//calculate total price of buffet
 		totalPrice = BUFFET * numberofCustomer;
 		//using show message dialog box for display totalPrice
-		//JOptionPane.showMessageDialog(null, "Amount to be paid is "+ frm.format(totalPrice)+" baht.");
+		//JOptionPane.showMessageDialog(null, "Amount to be paid is "+  frm.format(totalPrice)+" baht.");
 		//using Confirm dialog box
 		int memberCard;		
 		do {
